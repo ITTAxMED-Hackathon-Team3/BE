@@ -1,5 +1,4 @@
-name: mindreport-github-action CD
-
+name: ITTAxMED-Hackathon-Team3
 
 on:
   pull_request:
