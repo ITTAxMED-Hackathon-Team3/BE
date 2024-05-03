@@ -1,4 +1,4 @@
-name: mindreport-github-action CD
+name: github-action CD
 
 
 on:
